@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="prod-box" *ngFor="let product of products">
+    <img class="prod-img" src='./assets/product-images/{{product.id}}.jpg'>
+    <a><label>{{product.name}}</label></a>
+    <div class="rating">
+      <img class="rating-stars" src='./assets/ratings/{{product.rating}}.png'>
+      <label class="rating-label">({{product.numberOfVotes}})</label>
+    </div>
+    <label class="price">{{product.price}}</label>
+  </div>
+</div>

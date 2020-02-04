@@ -1,0 +1,13 @@
+<ul class="navbar">
+  <li><i class="glyphicon glyphicon-home"></i></li>
+  <li *ngFor="let category of categories">
+    <a>{{category.name}}</a>
+    <!--
+    <ul class="subNavbar">
+    <li *ngFor="let sub_categ of category.subCategory">
+      <a>{{sub_categ.name}}</a>
+    </li>
+  </ul>
+  -->
+  </li>
+</ul>

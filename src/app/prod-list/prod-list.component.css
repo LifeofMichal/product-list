@@ -1,0 +1,47 @@
+.container {
+    max-width: 1200px;
+    font-family: Calibri;
+}
+    .prod-box {
+        display: inline-block;
+        text-align: center;
+    }
+        .prod-box .prod-img {
+            width: 100%;
+        }
+        .prod-box a {
+            color: #333333;
+            
+            font-size: 1.8rem;
+            line-height: 1.8rem;
+        }
+            .rating-stars {
+                vertical-align: top;
+                height: 1.8rem;
+                object-fit: contain;
+            }
+            .rating-label {
+                vertical-align: top;
+                color: gray;
+                font-weight: 200;
+                height: 1.5rem;
+                font-size: 1.5rem;
+                line-height: 1.5rem;
+            }
+        .price {
+            font-size: 1.8rem;
+            line-height: 1.8rem;
+        }
+
+
+@media only screen and (min-width: 321px) {
+    .prod-box {
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .prod-box {
+        width: 33%;
+    }
+}

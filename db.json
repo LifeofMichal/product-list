@@ -1,0 +1,104 @@
+{
+  "products": [
+    { "id": 1, "name": "A-DATA 1TB SH14", "price": "$ 217.25", "rating": 3, "numberOfVotes": 3 },
+    { "id": 2, "name": "HP Pro Tablet 10 EE G1 32GB Grey", "price": "$ 400.12", "rating": 1, "numberOfVotes": 5 },
+    { "id": 3, "name": "HP ProBook 11 EE G1", "price": "$ 708.65", "rating": 2, "numberOfVotes": 15 },
+    { "id": 4, "name": "LUXA2 Luxa2 L1", "price": "$ 115.28", "rating": 4, "numberOfVotes": 8 },
+    { "id": 5, "name": "A-DATA 1TB SH14", "price": "$ 217.04", "rating": 5, "numberOfVotes": 21 },
+    { "id": 6, "name": "GoPro The Handler", "price": "$ 22.34", "rating": 1, "numberOfVotes": 45 },
+    { "id": 7, "name": "Fujitsu S26391-F6097-L323", "price": "$ 236.12", "rating": 2, "numberOfVotes": 1 },
+    { "id": 8, "name": "iiyama ProLite L5560S", "price": "$ 2,721.55", "rating": 3, "numberOfVotes": 345},
+    { "id": 9, "name": "Sony VPL-SW225", "price": "$ 1,047.29", "rating": 3, "numberOfVotes": 4 },
+    { "id": 10, "name": "Sony NP-BY1", "price": "$ 22.82", "rating": 2, "numberOfVotes": 7 },
+    { "id": 11, "name": "GoPro Helmet Front Mount", "price": "$ 26.61", "rating": 1, "numberOfVotes": 23 },
+    { "id": 12, "name": "iiyama ProLite L4260S", "price": "$ 1,426.76", "rating": 1, "numberOfVotes": 7 },
+    { "id": 13, "name": "A-DATA 1TB SH14", "price": "250,00 SEK", "rating": 5, "numberOfVotes": 42 },
+    { "id": 14, "name": "A-DATA 1TB SH14", "price": "$ 217.25", "rating": 3, "numberOfVotes": 3 },
+    { "id": 15, "name": "HP Pro Tablet 10 EE G1 32GB Grey", "price": "$ 400.12", "rating": 1, "numberOfVotes": 5 },
+    { "id": 16, "name": "HP ProBook 11 EE G1", "price": "$ 708.65", "rating": 2, "numberOfVotes": 15 },
+    { "id": 17, "name": "LUXA2 Luxa2 L1", "price": "$ 115.28", "rating": 4, "numberOfVotes": 8 },
+    { "id": 18, "name": "A-DATA 1TB SH14", "price": "$ 217.04", "rating": 5, "numberOfVotes": 21 },
+    { "id": 19, "name": "GoPro The Handler", "price": "$ 22.34", "rating": 1, "numberOfVotes": 45 },
+    { "id": 20, "name": "Fujitsu S26391-F6097-L323", "price": "$ 236.12", "rating": 2, "numberOfVotes": 1 },
+    { "id": 21, "name": "iiyama ProLite L5560S", "price": "$ 2,721.55", "rating": 3, "numberOfVotes": 345},
+    { "id": 22, "name": "Sony VPL-SW225", "price": "$ 1,047.29", "rating": 3, "numberOfVotes": 4 },
+    { "id": 23, "name": "Sony NP-BY1", "price": "$ 22.82", "rating": 2, "numberOfVotes": 7 },
+    { "id": 24, "name": "GoPro Helmet Front Mount", "price": "$ 26.61", "rating": 1, "numberOfVotes": 23 },
+    { "id": 25, "name": "iiyama ProLite L4260S", "price": "$ 1,426.76", "rating": 1, "numberOfVotes": 7 },
+    { "id": 26, "name": "A-DATA 1TB SH14", "price": "250,00 SEK", "rating": 5, "numberOfVotes": 42 },
+    { "id": 27, "name": "A-DATA 1TB SH14", "price": "$ 217.25", "rating": 3, "numberOfVotes": 3 },
+    { "id": 28, "name": "HP Pro Tablet 10 EE G1 32GB Grey", "price": "$ 400.12", "rating": 1, "numberOfVotes": 5 },
+    { "id": 29, "name": "HP ProBook 11 EE G1", "price": "$ 708.65", "rating": 2, "numberOfVotes": 15 },
+    { "id": 30, "name": "LUXA2 Luxa2 L1", "price": "$ 115.28", "rating": 4, "numberOfVotes": 8 },
+    { "id": 31, "name": "A-DATA 1TB SH14", "price": "$ 217.04", "rating": 5, "numberOfVotes": 21 },
+    { "id": 32, "name": "GoPro The Handler", "price": "$ 22.34", "rating": 1, "numberOfVotes": 45 }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "CAMERAS",
+      "subCategories": [
+        {
+          "id": 11,
+          "name": "ACTION CAMERAS"
+        },
+        {
+          "id": 12,
+          "name": "BAGS & CASES"
+        },
+        {
+          "id": 13,
+          "name": "CAMCORDERS"
+        },
+        {
+          "id": 14,
+          "name": "CAMERA ACCESSORIES"
+        },
+        {
+          "id": 15,
+          "name": "DIGITAL CAMERAS"
+        },
+        {
+          "id": 16,
+          "name": "WEBCAMS"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "COMPUTERS",
+      "subCategories": [
+        {
+          "id": 21,
+          "name": "TABLETS",
+          "subCategories": [
+            { "id": 211, "name": "Asus" },
+            { "id": 212, "name": "Fujitsu" },
+            { "id": 213, "name": "Hanvon" },
+            { "id": 214, "name": "Lenovo" },
+            { "id": 215, "name": "MSI" },
+            { "id": 216, "name": "Samsung" }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "NOTEBOOKS AND PCS",
+          "subCategories": [
+            { "id": 221, "name": "Notebooks" },
+            { "id": 222, "name": "PCs" },
+            { "id": 223, "name": "Backpacks, Notebook Bags & Cases" },
+            { "id": 224, "name": "Docking Stations" },
+            { "id": 225, "name": "Ergonomic Wrist Rests" },
+            { "id": 226, "name": "Notebook Accessories" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
